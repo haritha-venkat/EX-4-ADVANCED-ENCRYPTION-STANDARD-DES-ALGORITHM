@@ -1,6 +1,5 @@
 # EX-8-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
-# NAME:HARITHA SHREE
-# REG NO:212222230046
+
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
